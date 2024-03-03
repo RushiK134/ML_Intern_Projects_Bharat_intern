@@ -1,7 +1,7 @@
 # ML Internship Projects at Bharat Intern
 
 ## About
-I completed a 1-month virtual internship at Bharat Intern, where I worked on two exciting projects: Iris Flower Classification and Movies Recommendation System.
+Hellow, I'am Rushikesh Katole! I completed a 1-month virtual internship at Bharat Intern, where I worked on two exciting projects: Iris Flower Classification and Movies Recommendation System.
 
 ## Projects
 ### Iris Flower Classification
